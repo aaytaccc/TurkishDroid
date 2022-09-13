@@ -1,4 +1,13 @@
+TurkishDroid DevOps  Docs🌱
+ Empowering Community
+What is TurkishDroid ?
+TurkishDroid  is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where 
+people need to come together to be part of a collective. See our announcement post for a high-level overview of what TurkishDroid  is.
 
+ GitHub   is hosted by . GitHub It is a community of software developers who write articles, take part in discussions, and build their professional profiles. 
+We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, 
+and all are welcome to find their place within our community. 
+THANKS GİTHUB LOVE ❤️
 
 About DevOps
 DevOps is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. 
@@ -23,6 +32,7 @@ toplulukları güçlendirmek için tasarlanmış açık kaynaklı yazılım.
  Daha fazla bilgi için meta GitHub, github.com/aaytaccc/turkishdroid/ sayfamızı ziyaret edin.
 
 Şeffaflığa ve ekosisteme değer katmaya inanıyoruz. Umarız etrafta dolaşmaktan ve katılmaktan zevk alırsınız!
+TEŞEKKÜRLER GİTHUB SENİ VE EKİBİNİ SAYGI İLE SELAMLİYORUZ
 
 > Linux on Android 💯
 
