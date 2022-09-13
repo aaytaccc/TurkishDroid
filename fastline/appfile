@@ -1,0 +1,2 @@
+json_key_file("./google-service-account-user.json") # Path to the json secret file - Follow https://github.com/aaytaccc/turkishdroid #setup to get one 
+ package_name("aaytaccc.TurkishDroid") # e.g. com.aytaccakir.aaytaccc.app
