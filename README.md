@@ -4,7 +4,7 @@ About DevOps
 DevOps is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. 
 We provide a place for that to happen.
 
-DevOps is built on Forem: open source software designed to empower communities. Because our application is open source, you can inspect every little detail of the code, 
+DevOps is built on GitHub: open source software designed to empower communities. Because our application is open source, you can inspect every little detail of the code, 
 or chip in yourself!
  GitHub is available for anyone interested in creating similar communities in any niche or passion. Visit our meta GitHub, 
 GitHub for more information.
@@ -23,4 +23,4 @@ Termux Terminal Emulator for Android
 
 **aaytaccc/aaytaccc** 
   Help Me Pls
-
+TurkishDroid 
