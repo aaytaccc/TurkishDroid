@@ -1,0 +1,8 @@
+# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method PATCH \
+  -H "Accept: application/vnd.github+json" \
+  /repos/OWNER/REPO/pulls/comments/COMMENT_ID \
+  -f body='I like this too!' 
