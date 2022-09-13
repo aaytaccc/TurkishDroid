@@ -1,0 +1,12 @@
+// Octokit.js
+// https://github.com/octokit/core.js#readme
+const octokit = new Octokit({
+  auth: 'YOUR-TOKEN'
+})
+
+await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
+  owner: 'OWNER',
+  repo: 'REPO',
+  issue_number: 'ISSUE_NUMBER',
+  body: 'Me too'
+})
