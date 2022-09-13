@@ -34,6 +34,41 @@ toplulukları güçlendirmek için tasarlanmış açık kaynaklı yazılım.
 Şeffaflığa ve ekosisteme değer katmaya inanıyoruz. Umarız etrafta dolaşmaktan ve katılmaktan zevk alırsınız!
 TEŞEKKÜRLER GİTHUB SENİ VE EKİBİNİ SAYGI İLE SELAMLİYORUZ
 
+
+Table of Contents
+
+What is TurkisDroid?
+
+Table of Contents
+
+Community
+
+Contributing
+
+License
+
+Community
+
+For a place to have open discussions on features, voice your ideas, or get help with general questions please visit our community at GitHub
+
+Contributing
+
+We encourage you to contribute to TurkishDroid ! Please check out the Contributing to TurkishDroid guide for guidelines about how to proceed.
+
+License
+
+This program is free software: you can redistribute it and/or modify it under the terms of the
+ GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+ Please see the LICENSE file in our repository for the full text.
+
+Like many open source projects, we require that contributors provide us with a Contributor 
+License Agreement (CLA). By submitting code to the TurkisDroid project, you are granting us a right to use that code under the terms of the CLA.
+
+Our version of the CLA was adapted from the Microsoft Contributor License Agreement, which they generously made available to the public domain under 
+Creative Commons CC0 1.0 Universal.
+
+Any questions, please refer to our license FAQ doc or email aaytaccc@gmail.com/aytaccakir1985@gmail.com.
+
 > Linux on Android 💯
 
 ## Download Termux
