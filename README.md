@@ -1,7 +1,6 @@
-### Hi there 👋
-# My Termux setup
 
-Here is My Termux Terminal Emulator Setup &amp; Packages 🔖
+
+
 
 > Linux on Android 💯
 
