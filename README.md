@@ -1,3 +1,14 @@
+TURKİSHDROİD
+https://github.com/aaytaccc
+AYTAÇ ÇAKIR 
+- 👋 Hi, I’m @aaytaccc
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... GitHub - e-mail
+
+
+GİTHUB – DEV - ANDROİD
 TurkishDroid DevOps  Docs🌱
  Empowering Community
 What is TurkishDroid ?
@@ -17,7 +28,7 @@ DevOps is built on GitHub: open source software designed to empower communities.
 or chip in yourself!
  GitHub is available for anyone interested in creating similar communities in any niche or passion. Visit our meta GitHub, 
 GitHub for more information.
-https://github.com/aaytaccc/turkishdroid/
+https://github.com/aaytaccc/turkishdroid
 We believe in transparency and adding value to the ecosystem. We hope you enjoy poking around and participating!
 
 
@@ -29,21 +40,12 @@ DevOps GitHub  üzerine kurulmuştur :
 toplulukları güçlendirmek için tasarlanmış açık kaynaklı yazılım.
  Uygulamamız açık kaynak kodlu olduğu için kodun her detayını inceleyebilir veya kendi kendinize chip yapabilirsiniz!
  GitHub, herhangi bir niş veya tutkuda benzer topluluklar oluşturmak isteyen herkes için mevcuttur.
- Daha fazla bilgi için meta GitHub, github.com/aaytaccc/turkishdroid/ sayfamızı ziyaret edin.
+ Daha fazla bilgi için meta GitHub, https://github.com/aaytaccc/turkishdroid sayfamızı ziyaret edin.
 
 Şeffaflığa ve ekosisteme değer katmaya inanıyoruz. Umarız etrafta dolaşmaktan ve katılmaktan zevk alırsınız!
-TEŞEKKÜRLER GİTHUB SENİ VE EKİBİNİ SAYGI İLE SELAMLİYORUZ
+TEŞEKKÜRLER GİTHUB SENİ VE EKİBİNİ SAYGI İLE SELAMLİYORUZ ...
 
 
-Table of Contents
-
-What is TurkisDroid?
-
-Table of Contents
-
-Community
-
-Contributing
 
 License
 
@@ -67,7 +69,9 @@ License Agreement (CLA). By submitting code to the TurkisDroid project, you are 
 Our version of the CLA was adapted from the Microsoft Contributor License Agreement, which they generously made available to the public domain under 
 Creative Commons CC0 1.0 Universal.
 
-Any questions, please refer to our license FAQ doc or email aaytaccc@gmail.com/aytaccakir1985@gmail.com.
+Any questions, please refer to our license FAQ doc or email :
+aaytaccc@gmail.com 
+aytaccakir1985@gmail.com
 
 > Linux on Android 💯
 
@@ -75,10 +79,13 @@ Any questions, please refer to our license FAQ doc or email aaytaccc@gmail.com/a
 
 Termux Terminal Emulator for Android
 
-##Download Magisk
+# TURKİSH DROİD #
+Siz Değerli Ekip ve Platform Arkadaşlarımızla Çalışmakdan ve paylaşımda bulunmakdan gurur ve kıvanç duyarız... sevgilerimiz ve saygılarımızla...
+AYTAÇ ÇAKIR -  
+	Aslında sıradan bir insanım kucuk yasda oyun sunucuları irc serverler web sayfaları ile ugrasırdım amator olarak halen amatorum cunku kısıtlı imkanlarla yapmaya calısıyorum ufkum geniş kendi kabuguma sıgmıyorum biraz hiper aktif birazda yenilikciyim dur duragım yok yılmadan usanmadan hedefe devam saygılarımla...
+	§ Actually, I am an ordinary person, at a young age I used to deal with game servers, irc servers web pages, as an amateur, I am still an amateur, because I try to do it with limited opportunities, my horizon is wide, I do not fit in my shell, I am a little hyper active, a little innovative, I stay on the target without getting tired, my respects...
 
-
-
-**aaytaccc/aaytaccc** 
+aytaccakir1985@gmail.com 
+aaytaccc@gmail.com 
   Help Me Pls
 TurkishDroid 
