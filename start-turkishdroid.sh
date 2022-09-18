@@ -6,7 +6,7 @@ command="proot"
 command+=" --kill-on-exit"
 command+=" --link2symlink"
 command+=" -0"
-command+=" -r ubuntu20-fs"
+command+=" -r turkishdroid-fs"
 if [ -n "$(ls -A turkishdroid-binds)" ]; then
     for f in turkishdroid-binds/* ;do
       . $f
